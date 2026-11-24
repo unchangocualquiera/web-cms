@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "collections": [
+    {
+      "name": "Main Collection",
+      "postsDir": "posts",
+      "imagesDir": "posts"
+    }
+  ],
+  "plugins": {
+    "editor": "@pageel/plugin-mdx"
+  }
+}
